@@ -1,6 +1,8 @@
 # Sega 32X for Sockit
 Ported from https://github.com/MiSTer-devel/S32X_MiSTer according from Somhi sockit template.
 
+Follows original readme file.
+
 # [Sega 32X](https://en.wikipedia.org/wiki/32X) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 by [Sergey Dvodnenko](https://github.com/srg320)
 
